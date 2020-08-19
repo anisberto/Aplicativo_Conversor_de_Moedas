@@ -1,6 +1,6 @@
-# conversor
+# Conversor Simples
 
-A new Flutter project.
+Estudo Flutter - Conversor Simples de Moedas.
 
 ## Getting Started
 
