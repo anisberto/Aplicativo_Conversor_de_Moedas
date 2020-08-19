@@ -107,7 +107,7 @@ class _HomeState extends State<Home> {
                       buildTextField(
                           "Dolar", "\$", dolarController, _dolarChange),
                       Divider(),
-                      buildTextField("Euro", "EUR", euroController, _euroChange)
+                      buildTextField("Euro", "€", euroController, _euroChange)
                     ],
                   ),
                 );
